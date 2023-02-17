@@ -1,0 +1,63 @@
+body{
+    width: 1425px;
+    height: 1330px;
+    border: solid 2px;
+}
+#box1{
+    height: 200px;
+    width: 1417px;
+    border: solid 2px ;
+    margin: 2px;
+    background-image: url(Annotation\ 2022-12-04\ 150508.jpg);
+
+}
+#title{
+    font-size: 80px;
+    color: rgb(244, 237, 237);
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
+#box2{
+    height: 50px;
+    width: 1417px;
+    border: solid 2px ;
+    margin: 2px;
+    background-image: url(Annotation\ 2022-12-04\ 150508.jpg);
+    display: flex;
+ 
+
+}
+#one{
+    width: 280px;
+    height: 45px;
+    border: solid rgb(248, 246, 249) 2px;
+}
+#two {
+    width: 280px;
+    height: 45px;
+    border: solid rgb(248, 246, 249) 2px;
+}
+#three {
+    width: 280px;
+    height: 45px;
+    border: solid rgb(248, 246, 249) 2px;
+}
+#four {
+    width: 280px;
+    height: 45px;
+    border: solid rgb(248, 246, 249) 2px;
+}
+#five {
+    width: 280px;
+    height: 45px;
+    border: solid rgb(248, 246, 249) 2px;
+}
+h2{
+    font-size: medium;
+    color: aliceblue;
+    text-align: center;
+}
+img{
+   width: 1420px;
+}
